@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello Everybody" << endl;
+	cout << "Hello Everybody, I want to kill all humans!!!!" << endl;
 	system("PAUSE");
 	return 0;
 }
